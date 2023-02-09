@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Repo name?"
+read name
+git clone https://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@github.com/vandriodd/$name.git
